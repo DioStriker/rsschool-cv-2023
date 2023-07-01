@@ -46,3 +46,10 @@ High School No.1
 ### Bachelor of Organizational Management
 SPb University of Civil Aviation
 ### 2001-2006
+
+
+## LANGUAGE
+
+English:
+B2 (Upper-Intermediate) as I actually rank it
+C2 [EFSET](https://www.efset.org/cert/yyfadi)
