@@ -21,3 +21,8 @@ I graduated from Saint-Petersburg University of Civil Aviation in 2006 with Bach
 - SCSS basics
 - Git basics
 - Visual Studio Code
+
+
+## EXAMPLE PROJECT
+
+[**CV**](https://diostriker.github.io/rsschool-cv/cv)
