@@ -26,3 +26,23 @@ I graduated from Saint-Petersburg University of Civil Aviation in 2006 with Bach
 ## EXAMPLE PROJECT
 
 [**CV**](https://diostriker.github.io/rsschool-cv/cv)
+
+
+## EXPERIENCE
+
+**Flight Attendant**
+Rossiya Airlines
+May 2013 to September 2022 (9 years, 4 months)
+- 5 years Senior Flight Attendant experience
+- Completed more than 6000 hours of domestic and international flights
+
+
+## EDUCATION
+
+### Secondary School
+High School No.1
+### 1991-2001
+
+### Bachelor of Organizational Management
+SPb University of Civil Aviation
+### 2001-2006
