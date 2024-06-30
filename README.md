@@ -1,3 +1,3 @@
-# rsschool-cv
-https://Diostriker.github.io/rsschool-cv/cv
-https://Diostriker.github.io/rsschool-cv/
+# rsschool-cv-2023
+https://Diostriker.github.io/rsschool-cv-2023/cv
+https://Diostriker.github.io/rsschool-cv-2023/
